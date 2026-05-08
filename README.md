@@ -1,8 +1,8 @@
-# 🚀 Cypress - Compass UOL
+# 🚀 Cypress 
 
 ## 📚 Sobre o Projeto
 
-Este repositório foi criado como parte da atividade prática do módulo de Automação de Testes Web com Cypress da Compass UOL.
+Este repositório foi criado como parte da atividade prática do módulo de Automação de Testes Web com Cypress.
 
 O objetivo desta atividade foi configurar o ambiente de automação e desenvolver o primeiro teste End-to-End (E2E) utilizando Cypress.
 
@@ -101,4 +101,3 @@ Durante esta atividade, foram praticados conceitos importantes como:
 ## 👨‍💻 Autor
 
 Klaybsom Noronha  
-Compass UOL
