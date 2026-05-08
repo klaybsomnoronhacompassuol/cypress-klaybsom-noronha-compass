@@ -1,7 +1,7 @@
 {
   "name": "cypress-klaybsom-noronha-compass",
   "version": "1.0.0",
-  "description": "Projeto de automação de testes web utilizando Cypress para o programa de bolsas Compass UOL.",
+  "description": "Projeto de automação de testes web utilizando Cypress",
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
